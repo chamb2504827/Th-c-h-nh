@@ -1,5 +1,5 @@
 THUC HANH
-BUỔI THỰC HÀNH 2: MICROSOFT WORD - TRỘN THƯ VÀ TẠO MỤC LỤC VÀ GOOGLE DOCS.
+#BUỔI THỰC HÀNH 2: MICROSOFT WORD - TRỘN THƯ VÀ TẠO MỤC LỤC VÀ GOOGLE DOCS.
 Bài thực hành số 1 - Trộn thư dữ liệu từ excel.
 1.1 Tạo tập tin cơ sở dữ liệu.
 1.2 Tạo tập tin chính và trộn thư.
